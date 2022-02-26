@@ -7,10 +7,6 @@ Using historical data about patients diagnosed with cancer, enable the doctors t
 ## Demo
 Link: [https://cancer-type-classifier.herokuapp.com/predict](https://cancer-type-classifier.herokuapp.com/predict)
 
-[![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
-
-[![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
-
 
 ## Motivation
 What to do when you are at home due to this pandemic situation? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
