@@ -21,9 +21,9 @@ def predict():
     output = prediction[0]
 
     if output == 0:
-        return render_template('home.html', prediction_text= 'Patient suffering from cancer type Malignant')
+        return render_template('home.html', prediction_text= 'Cancer type detected is Malignant')
     else:
-        return render_template('home.html', prediction_text= 'Patient suffering from cancer type Benign')
+        return render_template('home.html', prediction_text= 'Cancer type detected is Benign')
 
 
 if __name__ == "__main__":
