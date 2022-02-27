@@ -5,7 +5,7 @@ In this project, we work to predict if a patient suffuring from cancer is bening
 Using historical data about patients diagnosed with cancer, enable the doctors to differentiate malignant cases and benign given the independent attributes.
 
 ## Demo
-Link: [https://cancer-type-classifier.herokuapp.com/predict](https://cancer-type-classifier.herokuapp.com/predict)
+Link: [https://cancer-type-classifier.herokuapp.com](https://cancer-type-classifier.herokuapp.com)
 
 
 ## Motivation
